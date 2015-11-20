@@ -1,0 +1,8 @@
+syntax: glob
+*.pyc
+*.swp
+*.db
+*.pid
+*.log
+*.idea
+user_agent_history.log
